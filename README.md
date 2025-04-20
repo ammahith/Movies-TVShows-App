@@ -1,5 +1,3 @@
-# Movies‑TVShows‑App
-
 ![App Home Screen](assets/screenshots/intro.png)
 
 ## Table of Contents
