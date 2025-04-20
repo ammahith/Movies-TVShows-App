@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MoviesApp</string>
+
+    <!-- Navigation Titles -->
+    <string name="title_home">Movies</string>
+    <string name="title_dashboard">TV Shows</string>
+    <string name="title_notifications">People</string>
+
+    <!-- Movie details -->
+    <string name="movie_details">Movie Details</string>
+    <string name="overview">Overview</string>
+    <string name="release_date">Release Date: %1$s</string>
+    <string name="rating">Rating: %1$s/10</string>
+
+    <!-- Error messages -->
+    <string name="error_fetching_movies">Error fetching data. Please try again.</string>
+    <string name="no_internet_connection">No internet connection. Please check your network.</string>
+    <string name="retry">Retry</string>
+
+    <!-- Search -->
+    <string name="search_movies">Search</string>
+    <string name="no_results_found">No results found for \"%1$s\"</string>
+    <string name="search_results">Search Results</string>
+
+    <!-- Categories -->
+    <string name="popular">Popular</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="top_rated">Top Rated</string>
+    <string name="upcoming">Upcoming</string>
+    <string name="trending">Trending</string>
+    <string name="airing_today">Airing Today</string>
+    <string name="on_tv">On TV</string>
+
+    <!-- TV Shows -->
+    <string name="popular_tv_shows">Popular TV Shows</string>
+    <string name="airing_today_tv_shows">Airing Today</string>
+    <string name="on_tv_shows">On TV</string>
+    <string name="top_rated_tv_shows">Top Rated</string>
+
+    <!-- TV Show details -->
+    <string name="rating_format">Rating: %1$s/10</string>
+    <string name="first_air_date">First Air Date: %1$s</string>
+    <string name="unknown_air_date">First Air Date: Unknown</string>
+    <string name="seasons_count">Seasons: %1$s</string>
+    <string name="episodes_count">Episodes: %1$s</string>
+    <string name="networks_format">Networks: %1$s</string>
+    <string name="status_format">Status: %1$s</string>
+    <string name="unknown_genres">Genres: Unknown</string>
+    <string name="no_overview">No overview available for this TV show.</string>
+
+    <!-- People -->
+    <string name="popular_people">Popular People</string>
+    <string name="trending_people">Trending People</string>
+
+    <!-- Filters -->
+    <string name="sort">Sort</string>
+    <string name="filters">Filters</string>
+    <string name="where_to_watch">Where To Watch</string>
+
+    <!-- Intro screen -->
+    <string name="app_intro_title">Movies - TV Shows - Celebrity\nAll In One Place</string>
+    <string name="app_intro_subtitle">Developed by Abdullah Mahith</string>
+    <string name="get_started">Get Started</string>
+
+    <string name="load_more">Load More</string>
+</resources>

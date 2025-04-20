@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base application theme for night mode -->
+    <style name="Theme.MoviesApp" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">#01B4E4</item> <!-- TMDB blue -->
+        <item name="colorPrimaryVariant">#0197C0</item> <!-- Darker TMDB blue -->
+        <item name="colorOnPrimary">@color/white</item>
+
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">#F5C518</item> <!-- Gold accent color (IMDb-like) -->
+        <item name="colorSecondaryVariant">#D4A91C</item> <!-- Darker gold -->
+        <item name="colorOnSecondary">@color/black</item>
+
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+
+        <!-- Background colors -->
+        <item name="android:colorBackground">#121212</item> <!-- Dark gray instead of pure black -->
+        <item name="colorSurface">#1E1E1E</item> <!-- Slightly lighter surface -->
+        <item name="colorOnBackground">#FFFFFF</item>
+        <item name="colorOnSurface">#FFFFFF</item>
+
+        <!-- Card colors -->
+        <item name="cardBackgroundColor">#252525</item> <!-- Lighter card background -->
+
+        <!-- Text colors -->
+        <item name="android:textColorPrimary">#FFFFFF</item>
+        <item name="android:textColorSecondary">#DDDDDD</item> <!-- Light gray for secondary text -->
+
+        <!-- Extra attributes for better readability -->
+        <item name="android:windowBackground">@color/dark_background</item>
+    </style>
+</resources>
